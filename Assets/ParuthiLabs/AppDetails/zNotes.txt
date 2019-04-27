@@ -1,0 +1,9 @@
+﻿########################################
+# Paruthi Labs
+########################################
+This folder contains application specific items like game icon, screenshot 
+and not game specific
+
+
+
+########################################

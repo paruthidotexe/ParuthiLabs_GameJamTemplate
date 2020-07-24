@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/ParuthiLabs/Scenes/LoadingScene.unity
+    guid: 0c68545813205c547a3b09604027498e
+  - enabled: 1
     path: Assets/ParuthiLabs/Scenes/StartScene.unity
     guid: ab53b8d4686505742841184254d0a1ee
   - enabled: 1
